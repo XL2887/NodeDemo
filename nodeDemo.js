@@ -1,5 +1,5 @@
 //const http = require("https");
-import http from 'https';
+import http from './https';
 
 const options = {
     "method": "GET",
