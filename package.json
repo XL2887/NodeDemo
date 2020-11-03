@@ -1,11 +1,19 @@
 {
   "name": "package",
   "version": "1.0.0",
+<<<<<<< HEAD
+  "description": "Node.js application",
+  "main": "nodeDemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8000"
+=======
   "description": "Dashboard",
   "main": "nodeDemo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server nodeDemo.js"
+>>>>>>> af2be34f9eb4974d4acc109de2045a51e13d99fd
   },
   "repository": {
     "type": "git",
@@ -16,5 +24,14 @@
   "bugs": {
     "url": "https://github.com/XL2887/NodeDemo/issues"
   },
+<<<<<<< HEAD
+  "homepage": "https://github.com/XL2887/NodeDemo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "requirejs": "^2.3.6",
+    "uniq": "^1.0.1"
+  }
+=======
   "homepage": "https://github.com/XL2887/NodeDemo#readme"
+>>>>>>> af2be34f9eb4974d4acc109de2045a51e13d99fd
 }
