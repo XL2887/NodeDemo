@@ -1,7 +1,6 @@
 {
   "name": "package",
   "version": "1.0.0",
-
   "description": "Node.js application",
   "main": "nodeDemo.js",
   "scripts": {
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/XL2887/NodeDemo/issues"
   },
-  "homepage": "https://github.com/XL2887/NodeDemo#readme"
+  "homepage": "https://github.com/XL2887/NodeDemo#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
